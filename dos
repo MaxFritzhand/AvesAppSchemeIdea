@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+  body {background-color:#16BC16}
+  h1   {color:#FFFFFF}
+  p    {color:#FFFFFF}
+
+</style>
+</head>
+
+<body>
+
+<h1 style="font-family:calibri">Sycamore Schools</h1>
+<p style="font-family:calibri">Career Connections</p>
+</body>
+
+</html>
